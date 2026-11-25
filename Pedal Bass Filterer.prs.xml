@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PresetDictionary>
+  <Item Key="Init">
+    <Preset Machine="Pedal Bass Filterer">
+      <Parameters>
+        <Parameter Name="Cutoff" Group="1" Index="0" Track="0" Value="120" />
+        <Parameter Name="Resonance" Group="1" Index="1" Track="0" Value="120" />
+        <Parameter Name="Filter" Group="1" Index="2" Track="0" Value="6" />
+        <Parameter Name="LFO rate" Group="1" Index="3" Track="0" Value="30" />
+        <Parameter Name="LFO mod" Group="1" Index="4" Track="0" Value="60" />
+        <Parameter Name="LFO Shape" Group="1" Index="5" Track="0" Value="0" />
+        <Parameter Name="Inertia" Group="1" Index="6" Track="0" Value="10" />
+        <Parameter Name="Set phase" Group="1" Index="7" Track="0" Value="0" />
+        <Parameter Name="Thev factor" Group="1" Index="8" Track="0" Value="0" />
+        <Parameter Name="Channels" Group="1" Index="9" Track="0" Value="0" />
+      </Parameters>
+      <Attributes />
+      <Comment></Comment>
+    </Preset>
+  </Item>
+  <Item Key="pedal_bass_001">
+    <Preset Machine="Pedal Bass Filterer">
+      <Parameters>
+        <Parameter Name="Cutoff" Group="1" Index="0" Track="0" Value="28" />
+        <Parameter Name="Resonance" Group="1" Index="1" Track="0" Value="0" />
+        <Parameter Name="Filter" Group="1" Index="2" Track="0" Value="2" />
+        <Parameter Name="LFO rate" Group="1" Index="3" Track="0" Value="247" />
+        <Parameter Name="LFO mod" Group="1" Index="4" Track="0" Value="80" />
+        <Parameter Name="LFO Shape" Group="1" Index="5" Track="0" Value="0" />
+        <Parameter Name="Inertia" Group="1" Index="6" Track="0" Value="0" />
+        <Parameter Name="Set phase" Group="1" Index="7" Track="0" Value="0" />
+        <Parameter Name="Thev factor" Group="1" Index="8" Track="0" Value="0" />
+        <Parameter Name="Channels" Group="1" Index="9" Track="0" Value="0" />
+      </Parameters>
+      <Attributes />
+      <Comment></Comment>
+    </Preset>
+  </Item>
+  <Item Key="Static Low-pass">
+    <Preset Machine="Pedal Bass Filterer">
+      <Parameters>
+        <Parameter Name="Cutoff" Group="1" Index="0" Track="0" Value="60" />
+        <Parameter Name="Resonance" Group="1" Index="1" Track="0" Value="40" />
+        <Parameter Name="Filter" Group="1" Index="2" Track="0" Value="2" />
+        <Parameter Name="LFO rate" Group="1" Index="3" Track="0" Value="30" />
+        <Parameter Name="LFO mod" Group="1" Index="4" Track="0" Value="0" />
+        <Parameter Name="LFO Shape" Group="1" Index="5" Track="0" Value="0" />
+        <Parameter Name="Inertia" Group="1" Index="6" Track="0" Value="0" />
+        <Parameter Name="Set phase" Group="1" Index="7" Track="0" Value="0" />
+        <Parameter Name="Thev factor" Group="1" Index="8" Track="0" Value="0" />
+        <Parameter Name="Channels" Group="1" Index="9" Track="0" Value="0" />
+      </Parameters>
+      <Attributes />
+      <Comment></Comment>
+    </Preset>
+  </Item>
+  <Item Key="Squelch Sweep">
+    <Preset Machine="Pedal Bass Filterer">
+      <Parameters>
+        <Parameter Name="Cutoff" Group="1" Index="0" Track="0" Value="80" />
+        <Parameter Name="Resonance" Group="1" Index="1" Track="0" Value="200" />
+        <Parameter Name="Filter" Group="1" Index="2" Track="0" Value="2" />
+        <Parameter Name="LFO rate" Group="1" Index="3" Track="0" Value="245" />
+        <Parameter Name="LFO mod" Group="1" Index="4" Track="0" Value="120" />
+        <Parameter Name="LFO Shape" Group="1" Index="5" Track="0" Value="0" />
+        <Parameter Name="Inertia" Group="1" Index="6" Track="0" Value="0" />
+        <Parameter Name="Set phase" Group="1" Index="7" Track="0" Value="0" />
+        <Parameter Name="Thev factor" Group="1" Index="8" Track="0" Value="0" />
+        <Parameter Name="Channels" Group="1" Index="9" Track="0" Value="0" />
+      </Parameters>
+      <Attributes />
+      <Comment></Comment>
+    </Preset>
+  </Item>
+  <Item Key="Slow Multipeak">
+    <Preset Machine="Pedal Bass Filterer">
+      <Parameters>
+        <Parameter Name="Cutoff" Group="1" Index="0" Track="0" Value="100" />
+        <Parameter Name="Resonance" Group="1" Index="1" Track="0" Value="160" />
+        <Parameter Name="Filter" Group="1" Index="2" Track="0" Value="0" />
+        <Parameter Name="LFO rate" Group="1" Index="3" Track="0" Value="252" />
+        <Parameter Name="LFO mod" Group="1" Index="4" Track="0" Value="100" />
+        <Parameter Name="LFO Shape" Group="1" Index="5" Track="0" Value="0" />
+        <Parameter Name="Inertia" Group="1" Index="6" Track="0" Value="20" />
+        <Parameter Name="Set phase" Group="1" Index="7" Track="0" Value="0" />
+        <Parameter Name="Thev factor" Group="1" Index="8" Track="0" Value="0" />
+        <Parameter Name="Channels" Group="1" Index="9" Track="0" Value="0" />
+      </Parameters>
+      <Attributes />
+      <Comment></Comment>
+    </Preset>
+  </Item>
+  <Item Key="Twin Peaks Wobble">
+    <Preset Machine="Pedal Bass Filterer">
+      <Parameters>
+        <Parameter Name="Cutoff" Group="1" Index="0" Track="0" Value="110" />
+        <Parameter Name="Resonance" Group="1" Index="1" Track="0" Value="200" />
+        <Parameter Name="Filter" Group="1" Index="2" Track="0" Value="3" />
+        <Parameter Name="LFO rate" Group="1" Index="3" Track="0" Value="243" />
+        <Parameter Name="LFO mod" Group="1" Index="4" Track="0" Value="90" />
+        <Parameter Name="LFO Shape" Group="1" Index="5" Track="0" Value="4" />
+        <Parameter Name="Inertia" Group="1" Index="6" Track="0" Value="0" />
+        <Parameter Name="Set phase" Group="1" Index="7" Track="0" Value="0" />
+        <Parameter Name="Thev factor" Group="1" Index="8" Track="0" Value="0" />
+        <Parameter Name="Channels" Group="1" Index="9" Track="0" Value="0" />
+      </Parameters>
+      <Attributes />
+      <Comment></Comment>
+    </Preset>
+  </Item>
+  <Item Key="Laser Steps">
+    <Preset Machine="Pedal Bass Filterer">
+      <Parameters>
+        <Parameter Name="Cutoff" Group="1" Index="0" Track="0" Value="140" />
+        <Parameter Name="Resonance" Group="1" Index="1" Track="0" Value="180" />
+        <Parameter Name="Filter" Group="1" Index="2" Track="0" Value="5" />
+        <Parameter Name="LFO rate" Group="1" Index="3" Track="0" Value="247" />
+        <Parameter Name="LFO mod" Group="1" Index="4" Track="0" Value="120" />
+        <Parameter Name="LFO Shape" Group="1" Index="5" Track="0" Value="9" />
+        <Parameter Name="Inertia" Group="1" Index="6" Track="0" Value="0" />
+        <Parameter Name="Set phase" Group="1" Index="7" Track="0" Value="0" />
+        <Parameter Name="Thev factor" Group="1" Index="8" Track="0" Value="0" />
+        <Parameter Name="Channels" Group="1" Index="9" Track="0" Value="0" />
+      </Parameters>
+      <Attributes />
+      <Comment></Comment>
+    </Preset>
+  </Item>
+  <Item Key="FMish Vowel">
+    <Preset Machine="Pedal Bass Filterer">
+      <Parameters>
+        <Parameter Name="Cutoff" Group="1" Index="0" Track="0" Value="100" />
+        <Parameter Name="Resonance" Group="1" Index="1" Track="0" Value="150" />
+        <Parameter Name="Filter" Group="1" Index="2" Track="0" Value="6" />
+        <Parameter Name="LFO rate" Group="1" Index="3" Track="0" Value="249" />
+        <Parameter Name="LFO mod" Group="1" Index="4" Track="0" Value="160" />
+        <Parameter Name="LFO Shape" Group="1" Index="5" Track="0" Value="0" />
+        <Parameter Name="Inertia" Group="1" Index="6" Track="0" Value="4" />
+        <Parameter Name="Set phase" Group="1" Index="7" Track="0" Value="0" />
+        <Parameter Name="Thev factor" Group="1" Index="8" Track="0" Value="0" />
+        <Parameter Name="Channels" Group="1" Index="9" Track="0" Value="0" />
+      </Parameters>
+      <Attributes />
+      <Comment></Comment>
+    </Preset>
+  </Item>
+  <Item Key="Notch Drift">
+    <Preset Machine="Pedal Bass Filterer">
+      <Parameters>
+        <Parameter Name="Cutoff" Group="1" Index="0" Track="0" Value="120" />
+        <Parameter Name="Resonance" Group="1" Index="1" Track="0" Value="60" />
+        <Parameter Name="Filter" Group="1" Index="2" Track="0" Value="7" />
+        <Parameter Name="LFO rate" Group="1" Index="3" Track="0" Value="20" />
+        <Parameter Name="LFO mod" Group="1" Index="4" Track="0" Value="200" />
+        <Parameter Name="LFO Shape" Group="1" Index="5" Track="0" Value="0" />
+        <Parameter Name="Inertia" Group="1" Index="6" Track="0" Value="30" />
+        <Parameter Name="Set phase" Group="1" Index="7" Track="0" Value="0" />
+        <Parameter Name="Thev factor" Group="1" Index="8" Track="0" Value="0" />
+        <Parameter Name="Channels" Group="1" Index="9" Track="0" Value="0" />
+      </Parameters>
+      <Attributes />
+      <Comment></Comment>
+    </Preset>
+  </Item>
+  <Item Key="SnH Chatter">
+    <Preset Machine="Pedal Bass Filterer">
+      <Parameters>
+        <Parameter Name="Cutoff" Group="1" Index="0" Track="0" Value="130" />
+        <Parameter Name="Resonance" Group="1" Index="1" Track="0" Value="120" />
+        <Parameter Name="Filter" Group="1" Index="2" Track="0" Value="1" />
+        <Parameter Name="LFO rate" Group="1" Index="3" Track="0" Value="241" />
+        <Parameter Name="LFO mod" Group="1" Index="4" Track="0" Value="140" />
+        <Parameter Name="LFO Shape" Group="1" Index="5" Track="0" Value="15" />
+        <Parameter Name="Inertia" Group="1" Index="6" Track="0" Value="2" />
+        <Parameter Name="Set phase" Group="1" Index="7" Track="0" Value="0" />
+        <Parameter Name="Thev factor" Group="1" Index="8" Track="0" Value="0" />
+        <Parameter Name="Channels" Group="1" Index="9" Track="0" Value="0" />
+      </Parameters>
+      <Attributes />
+      <Comment></Comment>
+    </Preset>
+  </Item>
+</PresetDictionary>
